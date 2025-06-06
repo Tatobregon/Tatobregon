@@ -1,6 +1,6 @@
 ### Hi 👋, I'm  **Lautaro Tomas Obregon!**
 
-### A passionate data science student from Argentina
+### A data science student from Argentina
 
 ---
 
