@@ -1,6 +1,6 @@
 ### Hi 👋, I'm  **Lautaro Tomas Obregon!**
 
-### A Data science from Argentina
+### A Data Scientist from Argentina
 
 ---
 
